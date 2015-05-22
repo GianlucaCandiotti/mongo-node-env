@@ -1,6 +1,6 @@
-# Node Environment
+# Node/MongoDB Environment
 
-This repository contains the main structure to run a NodeJS environment provisioned with Vagrant and Puppet.
+This repository contains the main structure to run a NodeJS/MongoDB environment provisioned with Vagrant and Puppet.
 
 ## Setting up the environment
 
