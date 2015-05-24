@@ -37,7 +37,9 @@ In order to set up the environment:
 
 9. Don't forget that the Vagrantfile will look for the *./app* folder as the sync folder. If you already have some files, put them in an *./app* folder so that your structure looks like the one described above. If you are starting from scratch or cloning a repository just create the *./app* folder and put your files in there.
 
-10. Change the remotes to point to your repository since at the moment origin will be pointing at this one.
+10. Currently the Vagrantfile configures the guest machine with a private network **192.168.33.10** that allows host only access. Also the Vagrantfile will forward port **8080** on the guest machine to port **8080** on the host machine.
+
+11. Change the remotes to point to your repository since at the moment origin will be pointing at this one.
 
 - - -
 
