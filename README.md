@@ -21,7 +21,7 @@ In order to set up the environment:
 
 3. Once both are installed clone this repository to your machine with:
 
-		git clone --recursive git@github.com:GianlucaCandiotti/node-env.git repository-name
+		git clone --recursive git@github.com:GianlucaCandiotti/mongo-node-env.git repository-name
 
 4. If you are working on a Windows environment, run this command in a command prompt as administrator in order to allow all kinds of symbolic links to be created on the computer ( Omit this step if you have done this before and skip to step 6 ) :
 
